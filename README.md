@@ -1,5 +1,5 @@
 # Power-BI-Contest
-I have participated in an Online Business Intelligence contest organized by [Mr. Satyajit Patnaik](https://www.linkedin.com/in/satyajitpattnaik/) on his [YouTube Channel](https://www.youtube.com/c/SatyajitPattnaik). We have provided with 3 case studies that are belongs to the following sectors such as Sales, Financial and Logistic and we have to make separate dashboard for each case study.
+I have participated in an Online Business Intelligence contest organized by [Mr. Satyajit Patnaik](https://www.linkedin.com/in/satyajitpattnaik/) on his [YouTube Channel](https://www.youtube.com/c/SatyajitPattnaik). We have provided with 3 case studies that are belongs to the following domain such as Sales, Financial and Logistic and we have to make separate dashboard for each case study.
 
 I have submitted all the case study but **I got 1st prize for my Sales Dashboard**.
 * Live Dashboard: [Click Here](https://sites.google.com/view/rajendra-kumar-oram/projects/sales-marketing/sales-dashboard-v1?authuser=0)
